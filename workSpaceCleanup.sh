@@ -1,6 +1,6 @@
 #!/bin/sh
 
-HOMED="/var/sites/s/shiny-ideas.tech/"
+HOMED="~/"
 
 debugMessage() {
     echo "[ "`date '+%Y-%m-%d %H:%S'`" ] DEBUG: "$1
